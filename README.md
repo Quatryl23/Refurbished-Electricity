@@ -32,7 +32,7 @@ the tick frequency, but this comes at the cost of precision. The tick generators
 Refurbished Electricity is recommended if
 - you play in worlds with many/large electricity networks loaded (espacially with high render distance)
 - you care a lot about performance
-- you want to use [Power consumption per module](https://github.com/Quatryl23/Refurbished-Electricity/README.md#power-consumption-per-module-configurable)
+- you want to use [Power consumption per module](https://github.com/Quatryl23/Refurbished-Electricity/blob/main/README.md#power-consumption-per-module-configurable)
 
 Refurbished Electricity is not recommended if
 - you want the electricity network to be 100% reliable (I can't guarantee that everything works functionally the same. If something doesn't, please [report](https://github.com/Quatryl23/Refurbished-Electricity/issues) the issue)
