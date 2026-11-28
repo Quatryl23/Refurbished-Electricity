@@ -1,0 +1,29 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mesomods.refurbishedelectricity.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "refurbished_electricity.refmap.json",
+  "mixins": [
+    "ConfigMixin",
+    "node.ElectricityModuleBlockEntityMixin",
+    "node.ElectricitySourceBlockEntityMixin",
+    "ElectricityTickerMixin",
+    "node.IElectricityNodeMixin",
+    "lightswitch.LightswitchBlockEntityMixin",
+    "lightswitch.LightswitchBlockMixin",
+    "node.PoweredBlockEntityMixin",
+    "stove.StoveBlockEntityCookingSpaceMixin",
+    "stove.StoveBlockEntityMixin",
+    "ticker.CeilingFanBlockEntityMixin",
+    "ticker.CeilingFanBlockMixin",
+    "ticker.ComputerBlockEntityMixin",
+    "ticker.ComputerBlockMixin",
+    "generator.ElectricityGeneratorBlockEntityMixin",
+    "ticker.ElectricityGeneratorBlockMixin",
+    "ticker.MicrowaveBlockEntityMixin",
+    "ticker.MicrowaveBlockMixin",
+    "ticker.TelevisionBlockEntityMixin",
+    "ticker.TelevisionBlockMixin"
+  ]
+}
