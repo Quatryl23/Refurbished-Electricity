@@ -30,7 +30,7 @@ the tick frequency, but this comes at the cost of precision. The tick generators
 
 ### When to use?
 Refurbished Electricity is recommended if
-- you play in worlds with many/large electricity networks loaded (espacially with high render distance)
+- you play in worlds with many/large electricity networks loaded (especially with high render distance)
 - you care a lot about performance
 - you want to use [Power consumption per module](https://github.com/Quatryl23/Refurbished-Electricity#power-consumption-per-module-configurable)
 
