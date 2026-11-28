@@ -10,6 +10,7 @@ import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.state.BlockState;
 
+@SuppressWarnings("unused")
 public class NodeTickers {
     public static void electricityGeneratorServerTick(Level level, BlockPos pos, BlockState state, ElectricityGeneratorBlockEntity generator) {
         if (level.getGameTime() % Config.SERVER.ticksPerGeneratorTick.get() == 0) {
